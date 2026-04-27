@@ -5,6 +5,11 @@ This project allows users to manage a movie database through a console-based men
 
 ---
 
+## 📸 Demo
+
+![Movie CRUD System](assets/demo.jpeg)
+
+
 ## 🚀 Features
 
 - 📋 List all movies
